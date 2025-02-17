@@ -1,0 +1,6 @@
+# Ignore dependencies
+chef-d-client/chef-d/node_modules/
+chef-d-server/node_modules/
+
+# Ignore environment variables
+chef-d-server/.env
